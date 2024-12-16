@@ -14,19 +14,20 @@
     --font-size-4: 1rem;
     --font-size-5: .75rem; 
 
-    --color-blue-1: #33489D;
-    --color-blue-2: #141E41;
-    --color-blue-3: #283a81;
+    --color-purple-1: #7c0eaf;
+    --color-purple-2: #390b64;
+    --color-purple-3: #460492;
 
     --color-black-0: #000;
     --color-black-1: #f9f9f9;
     --color-black-2: #f1f1f1;
     --color-black-3: #d4d4d4;
     --color-black-4: #4b4b4b;
+    --color-black-5: #272626;
 }
 
 body {
-    background: linear-gradient(180deg, var(--color-blue-1) 15%,var(--color-blue-2) 100%);
+    background: linear-gradient(180deg, var(--color-black-0) 15%,var(--color-black-5) 100%);
     min-height: 100vh;
 }
 

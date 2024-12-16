@@ -30,7 +30,7 @@ textarea {
 }
 
 .save-button:hover {
-    background: var(--color-blue-2);
+    background: var(--color-purple-2);
 }
 
 .cancel-button {
